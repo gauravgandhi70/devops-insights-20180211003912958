@@ -1,6 +1,6 @@
 applications:
 - disk_quota: 1024M
-  host: demodra
+  host: gaurav
   name: demodra
   buildpack: sdk-for-nodejs
   command: node app.js
